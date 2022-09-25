@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gogulkrish" alt="gogulkrish" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/phoenixkrish1" target="blank"><img src="https://img.shields.io/twitter/follow/phoenixkrish1?logo=twitter&style=for-the-badge" alt="phoenixkrish1" /></a> </p>
+<p align="left"> href="https://instagram.com/mr.phoenix_gocool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.phoenix_gocool"</p>
 
 - 🔭 I’m currently working on [IBM CAREER SWM](https://github.com/IBM-EPBL/IBM-Project-35221-1660282887)
 
@@ -26,7 +26,7 @@
 <a href="https://twitter.com/phoenixkrish1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="phoenixkrish1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gogul krish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gogul krish" height="30" width="40" /></a>
 <a href="https://fb.com/gogulkrish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gogulkrish" height="30" width="40" /></a>
-<a href="https://instagram.com/@mr.phoenix_gocool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.phoenix_gocool" height="30" width="40" /></a>
+<a href="https://instagram.com/mr.phoenix_gocool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.phoenix_gocool" height="30" width="40" /></a>
 <a href="https://discord.gg/GOGULKRISH#8797" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GOGULKRISH#8797" height="30" width="40" /></a>
 </p>
 
