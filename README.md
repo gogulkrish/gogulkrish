@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gogulkrish" alt="gogulkrish" /></a> </p>
 
-<p align="left"> <a href="https://instagram.com/mr.phoenix_gocool" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.phoenix_gocool" height="30" width="40" /></a> Follow me on</p> 
+<p align="left"> <a Follow me on href="https://instagram.com/mr.phoenix_gocool" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.phoenix_gocool" height="30" width="40" /></a> </p> 
 - 🔭 I’m currently working on [IBM CAREER SWM](https://github.com/IBM-EPBL/IBM-Project-35221-1660282887)
 
 - 🌱 I’m currently learning **Adobe XD, Figma**
