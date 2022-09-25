@@ -6,13 +6,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gogulkrish" alt="gogulkrish" /></a> </p>
 
 <p align="left">Follow me on <a  href="https://instagram.com/mr.phoenix_gocool" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.phoenix_gocool" height="30" width="40" /></a> </p>        
+
 - 🔭 I’m currently working on [IBM CAREER SWM](https://github.com/IBM-EPBL/IBM-Project-35221-1660282887)
 
 - 🌱 I’m currently learning **Adobe XD, Figma**
 
 - 👯 I’m looking to collaborate on [Graphic designer](https://www.instagram.com/mr.phoenix_gocool/)
 
-- 👨‍💻 All of my projects are available at [https://40ksku98mrdadq8fr9jbxq.on.drv.tw/www.port.com/vscode/](https://40ksku98mrdadq8fr9jbxq.on.drv.tw/www.port.com/vscode/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://40ksku98mrdadq8fr9jbxq.on.drv.tw/www.port.com/vscode/)
 
 - 💬 Ask me about **Photoshop, Html, Css**
 
