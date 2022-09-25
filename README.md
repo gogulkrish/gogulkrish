@@ -26,7 +26,7 @@
 <a href="https://twitter.com/phoenixkrish1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="phoenixkrish1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gogul krish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gogul krish" height="30" width="40" /></a>
 <a href="https://fb.com/gogulkrish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gogulkrish" height="30" width="40" /></a>
-<a href="https://instagram.com/@mr.phoenix_gocool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@mr.phoenix_gocool" height="30" width="40" /></a>
+<a href="https://instagram.com/@mr.phoenix_gocool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.phoenix_gocool" height="30" width="40" /></a>
 <a href="https://discord.gg/GOGULKRISH#8797" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GOGULKRISH#8797" height="30" width="40" /></a>
 </p>
 
